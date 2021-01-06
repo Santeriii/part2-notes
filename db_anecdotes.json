@@ -167,8 +167,24 @@
     },
     {
       "content": "testianekdootti",
-      "votes": 3,
+      "votes": 18,
       "id": "78480"
+    },
+    {
+      "content": "uusinTesti",
+      "votes": 28,
+      "id": "28035"
+    },
+    {
+      "content": "",
+      "votes": 0,
+      "id": "19530"
+    }
+  ],
+  "notification": [
+    {
+      "notification": "you voted \"testianekdootti\"",
+      "id": 1
     }
   ]
 }
